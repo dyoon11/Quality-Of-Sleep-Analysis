@@ -11,6 +11,6 @@ The purpose of this research is to show which factors impact quality of sleep. T
 ## Findings
 
 ## Dashboard
-https://public.tableau.com/app/profile/daniel.yoon6581/viz/QualityofSleepResearchDashboard/Dashboard1?publish=yes
-![image](https://github.com/dyoon11/sleepdataanalysis/assets/147287123/4acaf497-9205-4f2e-803c-0fd4156c4d05)
 
+![image](https://github.com/dyoon11/sleepdataanalysis/assets/147287123/4acaf497-9205-4f2e-803c-0fd4156c4d05)
+https://public.tableau.com/app/profile/daniel.yoon6581/viz/QualityofSleepResearchDashboard/Dashboard1?publish=yes
