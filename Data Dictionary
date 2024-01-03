@@ -1,6 +1,6 @@
-#Data Dictionary:
+Data Dictionary:
 
-## Dataset Columns:
+Dataset Columns:
 Person ID: An identifier for each individual.
 Gender: The gender of the person (Male/Female).
 Age: The age of the person in years.
