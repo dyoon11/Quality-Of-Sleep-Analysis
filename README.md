@@ -4,10 +4,10 @@
 Sleep serves a variety of purposes for our cognitive and physical well-being. According to the National Institute of health, "getting inadequate sleep over time can raise your risk for chronic (long-term) health problems." [1]. Due to the importance of sleep in our every day lives, it is vital to understand what one can do to increase and maximize one's quality of sleep. 
 
 ## Purpose
-The purpose of this synthetic research [2] is to show which factors in this dataset impact quality of sleep while also showcasing the power of data visualization through Tableau to uncover a data driven solution that will improve quality of sleep. The research consists of a artificial survey of 374 participants with an average age of 42. Inforamation regarding the stress level, heart rate, age, physical activity, sleep duration and etc. is available in this dataset.
+The purpose of this synthetic research [2] is to show which factors in this dataset impact quality of sleep while also showcasing the power of data visualization through Tableau to uncover a data driven solution that will improve quality of sleep. The research consists of a artificial survey of 374 participants with an average age of 42. Inforamation regarding the stress level, heart rate, age, physical activity, sleep duration and etc. is available in this dataset (please refer to the Data Dictionary for a full list of the elements in this dataset).
 
 ### Dataset Information
-**Please note:** this is a **synthetic** dataset available for public use in Kaggle.com for data manipulating/cleaning/learning puproses. I am using this dataset in order to showcase my data analysis capabilities and to highlight my ability to grasp the intricacies of a new and unrefined dataset to derive a specifc and robust business/personal solution.
+**Please note:** this is a **synthetic** dataset available for public use in Kaggle.com for data manipulating/cleaning/learning puproses. I am using this dataset in order to showcase my data analysis capabilities and to highlight my ability to grasp the intricacies of a new and unrefined dataset to derive a specific and robust business/personal solution.
 
 #### Data Dictionary:
 
@@ -27,9 +27,21 @@ The purpose of this synthetic research [2] is to show which factors in this data
 * Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
 ## Analysis
-After downloading/uploading the dataset to Tableau, it was important to uncover the 
+After downloading/uploading the dataset to Tableau, it was important to uncover the elements and understand how each element correlates to quality of sleep. By running simple regression calculations in Tableau to find the sample correlation coeffieicnt (r), it was not difficult to find the elements that had the highest correlation to quality of sleep. 
+
+### R-Coefficient
+_definition: sample correlation coeffiecient (r) is a statistical measure of how much varation there is between a dependent variable and an independent variable_
+
+Pearson Coefficent	
+.25 or higher	Very strong relationship
+.15 to .25	Strong relationship
+.11 to .15	Moderate relationship
+.06 to .10	weak relationship
+.01 to .05	No or negligible relationship
 
 ## Findings
+Using the Trend Model capabilities in Tableau: ![image](https://github.com/dyoon11/Quality-Of-Sleep-Analysis/assets/147287123/fe3b80bc-9487-474e-a1ec-a4cc4e18ba09)
+
 
 ## Dashboard
 
