@@ -1,7 +1,7 @@
 # Quality of Sleep Research Dashboard
 
 ## Introduction
-Sleep serves a variety of purposes for our cognitive and physical well-being. According to the National Institute of health, "getting inadequate sleep over time can raise your risk for chronic (long-term) health problems." [1]. Due to the importance of sleep in our every day lives, I would like to do research on what one can do to increase the quality of sleep. 
+Sleep serves a variety of purposes for our cognitive and physical well-being. According to the National Institute of health, "getting inadequate sleep over time can raise your risk for chronic (long-term) health problems." [1]. Due to the importance of sleep in our every day lives, it is vital to understand what one can do to increase and maximize one's quality of sleep. 
 
 ## Purpose
 The purpose of this synthetic research [2] is to show which factors in this dataset impact quality of sleep while also showcasing the power of data visualization through Tableau to uncover a data driven solution that will improve quality of sleep. The research consists of a artificial survey of 374 participants with an average age of 42. Inforamation regarding the stress level, heart rate, age, physical activity, sleep duration and etc. is available in this dataset.
