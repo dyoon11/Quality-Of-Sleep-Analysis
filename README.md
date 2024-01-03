@@ -45,6 +45,9 @@ Less than –.5	Strong	Negative
 Using the Trend Model capabilities in Tableau, we can see each element's correlation coefficient. **EXAMPLE:**
 ![image](https://github.com/dyoon11/Quality-Of-Sleep-Analysis/assets/147287123/fe3b80bc-9487-474e-a1ec-a4cc4e18ba09)
 
+### Element Coefficient
+![image](https://github.com/dyoon11/Quality-Of-Sleep-Analysis/assets/147287123/95f2148f-9901-434e-8585-e159701a9ef2)
+
 * **Stress Level** - strong negative correlation to the quality of sleep
 * **Heart Rate** - moderate negative correlation to the quality of sleep
 * **Age** - weak positive to the quality of sleep
