@@ -38,5 +38,5 @@ After downloading/uploading the dataset to Tableau, it was important to uncover 
 https://public.tableau.com/app/profile/daniel.yoon6581/viz/QualityofSleepResearchDashboard/Dashboard1?publish=yes
 
 ## References
-[1] National Institute of Health. 2022. https://www.nhlbi.nih.gov/health/sleep/why-sleep-important. (2024)
-[2] Tharmalingam Laksika. 2023. https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/discussion. (2024)
+* [1] National Institute of Health. 2022. https://www.nhlbi.nih.gov/health/sleep/why-sleep-important. (2024)
+* [2] Tharmalingam Laksika. 2023. https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/discussion. (2024)
