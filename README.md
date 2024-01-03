@@ -9,6 +9,23 @@ The purpose of this synthetic research [2] is to show which factors in this data
 ### Dataset Information
 **Please note:** this is a **synthetic** dataset available for public use in Kaggle.com for data manipulating/cleaning/learning puproses. I am using this dataset in order to showcase my data analysis capabilities and to highlight my ability to grasp the intricacies of a new and unrefined dataset to derive a specifc and robust business/personal solution.
 
+#### Data Dictionary:
+
+##### Dataset Columns:
+* Person ID: An identifier for each individual.
+* Gender: The gender of the person (Male/Female).
+* Age: The age of the person in years.
+* Occupation: The occupation or profession of the person.
+* Sleep Duration (hours): The number of hours the person sleeps per day.
+* Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
+* Physical Activity Level (minutes/day): The number of minutes the person engages in physical activity daily.
+* Stress Level (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
+* BMI Category: The BMI category of the person (e.g., Underweight, Normal, Overweight).
+* Blood Pressure (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
+* Heart Rate (bpm): The resting heart rate of the person in beats per minute.
+* Daily Steps: The number of steps the person takes per day.
+* Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
+
 ## Analysis
 After downloading/uploading the dataset to Tableau, it was important to uncover the 
 
